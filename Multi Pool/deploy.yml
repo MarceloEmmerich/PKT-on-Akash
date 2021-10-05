@@ -3,7 +3,7 @@ services:
   main:
     image: chandrastation/pkt_on_akash
     env:
-      - WALLET_ADDR=your-address-here
+      - WALLET_ADDR=pkt1qwx89n578ehx364rwxvs37cl59qhyv8mm2ng8mj
       - POOL1=http://pool.pkteer.com
       - POOL2=http://pool.pktpool.io
       - POOL3=http://pool.pkt.world
